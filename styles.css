@@ -1,0 +1,8 @@
+.list-block{
+    transition: all .5s;
+}
+
+.list-block:hover{
+    transition: all .5s;
+    transform: scale(1.05);
+}
